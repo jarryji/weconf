@@ -2,7 +2,7 @@
   "host": "jarryji.imwork.net",
   "host1": "14.155.222.38",
   "port": 625,
-  "maxSpare": 4,
+  "maxSpare": 8,
   "maxClient": 50,
   "maxTimeout": 30000,
   "key": "wydo2madWsoe",
