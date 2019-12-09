@@ -1,6 +1,7 @@
 {
-  "host": "jarryji.imwork.net",
+  "host": "work.learn-abc.com",
   "host1": "14.155.222.38",
+  "host2": "14.155.222.38",
   "port": 625,
   "maxSpare": 4,
   "maxClient": 50,
