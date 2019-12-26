@@ -8,6 +8,7 @@
   "maxTimeout": 55000,
   "maxRestart": 5,
   "maxError": 100,
+  "maxReboot": 8,
   "key": "wydo2madWsoe",
   "app": "https://wehhz.com/app_.apk",
   "appVersion": "1.1",
