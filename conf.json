@@ -1,7 +1,7 @@
 {
   "host": "work.learn-abc.com",
-  "host1": "14.155.222.38",
-  "host2": "14.155.222.38",
+  "host2": "host2.learn-abc.com",
+  "host3": "host3.learn-abc.com",
   "port": 625,
   "maxSpare": 8,
   "maxClient": 50,
