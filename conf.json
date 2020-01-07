@@ -1,7 +1,7 @@
 {
-  "host": "host2.learn-abc.com",
-  "host2": "host2.learn-abc.com",
-  "host3": "host3.learn-abc.com",
+  "host": "host1.wehhz.com",
+  "host2": "host2.wehhz.com",
+  "host3": "host3.wehhz.com",
   "port": 625,
   "maxSpare": 8,
   "maxClient": 50,
